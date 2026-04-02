@@ -20,15 +20,15 @@ FeatureEngineering_Capstone.ipynb   # Main notebook
 ## How to Run
 
 ### Option 1: Google Colab
-- Open the notebook using the provided Colab link
+- Open the notebook using the provided Colab link (https://colab.research.google.com/drive/1Tm8O0WdDHlk4n_IdF9XMPfQpAOUggve0?usp=sharing)
 - Run all cells from top to bottom
 
 ### Option 2: Local Execution
 
 1. Clone the repository:
 ```
-git clone <your-repo-link>
-cd <repo-name>
+git clone https://github.com/shivjain123/PreProcessing-2nd_Sem-HotelBooking
+cd PreProcessing-2nd_Sem-HotelBooking
 ```
 
 2. Install dependencies:
